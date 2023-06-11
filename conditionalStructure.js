@@ -1,1 +1,1 @@
-console.log("conditionalStructure");
+console.log("conditionalStructur")
